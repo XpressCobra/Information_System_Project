@@ -63,4 +63,4 @@ Scenario/Summary
 
 ## Github
 
-- Github link for your repositor here  
+- https://github.com/XpressCobra/Information_System_Project.git
