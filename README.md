@@ -39,7 +39,7 @@ Scenario/Summary
 
 ## Flowchart Diagram
 
->Explain your class Diagram
+>This Flowchart explains the simple gamplay and user display of my chosen game.It allows viewers to fully understand how the game works with all its rules and game settings.
 
 [Flowchart](real_images/RFLOWCHART.drawio.png "Rainbow Six Siege Flowchart")
 
