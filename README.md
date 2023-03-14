@@ -57,7 +57,7 @@ Scenario/Summary
 
 ## Other Resources
 
->If you have any other resources you want to add, like images, or links to other resources across the web please feel free to add them.
+>To be determined.
 
 `Link your Images diagram here`  
 
