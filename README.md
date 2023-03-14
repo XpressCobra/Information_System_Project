@@ -41,19 +41,19 @@ Scenario/Summary
 
 >This Flowchart explains the simple gamplay and user display of my chosen game.It allows viewers to fully understand how the game works with all its rules and game settings.
 
-[Flowchart](real_images/RFLOWCHART.drawio.png "Rainbow Six Siege Flowchart")
+[Flowchart Diagram](real_images/RFLOWCHART.drawio.png "Rainbow Six Siege Flowchart Diagram")
 
 ## Class Diagram
 
->Explain your class Diagram
+>This Class Diagram goes more in depth into the game explaining many key coding requirements. It demontrates the different classes, attributes, and methods within the game. It demonstrates operator, the matches, the maps, the users, the weapons, the teams and finally, the game settings.
 
-`Link your Class diagram here`  
+[Class Diagram](real_images/Class_R6.Final.drawio.png "Rainbow Six Siege Class Diagram")
 
 ## Sequence Diagram
 
->Explain your class Diagram
+>This Sequence Diagram shows the steps the user takes while playing the game. While being in order, the user must log in, play a match, win or lose, then request a rematch. This Diagram helps viewers understand how the game is played in order and what options must be placed in order to continue.
 
-`Link your Sequence diagram here`  
+[Sequence Diagram](real_images/Final_Sequence_R6.drawio.png "Rainbow Six Siege Sequence Diagram")
 
 ## Other Resources
 
