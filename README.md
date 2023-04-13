@@ -19,22 +19,22 @@ Scenario/Summary
 
 >For my user story, I've decided to add the most important details to my list. As always the player must start the game in order to launch their Rainbow 6 siege experience. 
 
-  The player logs into the game and joins a match
-  The player customizes game settings to their preference
-  The player coordinates/creates strategies with teammates
-  The player chooses the operator and loadout (weapons)
-  The player chooses a defense location or spawn point
-  The player moves to the spawn area
-  The player moves to the objective location
-  The player defends/attacks objective
-  The player kills the opposition
-  The player dies/survives round
-  The player evaluates strategy and communicates with the team
-  The player reflects on round performance
-  The player cycles through objectives on attacking/defending
-  The player wins or loses rounds or the whole game
-  The player can play again
-  The player logs out of the game
+  -The player logs into the game and joins a match. 
+  -The player customizes game settings to their preference. 
+  -The player coordinates/creates strategies with teammates. 
+  -The player chooses the operator and loadout (weapons). 
+  -The player chooses a defense location or spawn point. 
+  -The player moves to the spawn area. 
+  -The player moves to the objective location. 
+  -The player defends/attacks objective. 
+  -The player kills the opposition. 
+  -The player dies/survives round. 
+  -The player evaluates strategy and communicates with the team. 
+  -The player reflects on round performance. 
+  -The player cycles through objectives on attacking/defending. 
+  -The player wins or loses rounds or the whole game. 
+  -The player can play again. 
+  -The player logs out of the game. 
 
 
 ## Flowchart Diagram
